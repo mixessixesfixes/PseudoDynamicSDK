@@ -1,0 +1,11 @@
+framework module PseudoDynamicSDK {
+  umbrella header "PseudoDynamicSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PseudoDynamicSDK.Swift {
+    header "PseudoDynamicSDK-Swift.h"
+    requires objc
+}
