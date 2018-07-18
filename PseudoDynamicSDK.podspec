@@ -24,10 +24,10 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/mixessixesfixes/PseudoDynamicSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'mixessixesfixes' => 'anz.suetomo@gmail.com' }
+  s.author           = { 'mixessixesfixes' => '' }
   s.source           = { :git => 'https://github.com/mixessixesfixes/PseudoDynamicSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  # s.authors = { 'Alamofire Software Foundation' => 'info@alamofire.org' }
+  # s.authors = { '' => '' }
 
   s.ios.deployment_target = '10.0'
 
